@@ -1,0 +1,6 @@
+.mycard{
+    max-width: 300px !important;
+    text-align: center !important;
+    margin: 2rem auto !important;
+    max-height: 200px;
+}
